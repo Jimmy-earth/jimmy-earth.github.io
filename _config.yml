@@ -1,0 +1,12 @@
+title: Jimmy
+email: find@jimmy.earth
+description: > # this means to ignore newlines until "baseurl:"
+  Jimmy is a collaborative fiction project which seeks to discover: Who is the hero that will lead humanity out of the 21st century's great existential crisis?
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jimmy.earth" # the base hostname & protocol for your site
+github_username:    graial
+instagram_username: 
+twitter_username:   
+
+# Build settings
+markdown: kramdown
