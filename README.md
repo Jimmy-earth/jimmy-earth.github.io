@@ -19,5 +19,5 @@ The season finale of Star Trek TNG season 1 tracks 3 characters from the present
   - `cd jimmy-earth.github.io/`
 3. Start Jekyll server
   - `jekyll serve --watch`
-4. Access via
-  - http://127.0.0.1:4000/jekyll-theme-libretto/
+4. Then access it in your browser via:
+  - http://127.0.0.1:4000/
