@@ -1,6 +1,6 @@
-# Jimmy - A Magical Realism Collaborative Writing Project
+# Jimmy - A Magical Realism Collabrative Writing Project
 
-find it at https://jimmy.earth
+find it at: https://jimmy.earth
 
 ## Story overview
 Magical realism creates a sense of wonder and fantasy out of otherwise normal daily events.  From this vantage point, the parallels between the real Capt Piccard of today and the fictional Capt Piccard of 2400 provide a very fertile thematic space in a world where humanity is simultaneously charging towards the collapse of our own planet and colonization of the next one.
@@ -12,10 +12,7 @@ The real Piccard, through his Ted Talks and activism via the [Solar Impulse Foun
 However, this challenge really lies in the hands of our children, Generation Z.  Who is the hero of this cause within the Digital Natives?  What great call to adventure will stir the sleeping heroes of tomorrow and help humanity avoid collapse and evolve into a species fit for a planetary expansion?
 
 ## Story structure & plot lines
-The story is expected to unfold across 24 mostly stand-alone episodes of around 2500 words.
-
-The season finale of Star Trek TNG season 1 tracks 3 characters from the present of the time, 1987.  Those characters: a financier, a housewife and a rock-star were each cryogenically frozen after contracting terminal illnesses.  The genesis of our heroes comes from these roots and must overcome the worldviews and biases while learning important lessons and cultures from them.
-This season, similar to Star Wars, a New Hope, may only fulfill the call to adventure and crossing of the first threshold.
+The season finale of Star Trek TNG season 1 tracks 3 characters from the present of the time, 1987.  Those characters: a financier, a housewife and a rock-star were each cryogenically frozen after contracting terminal illnesses.  The genesis of our heroes comes from these roots and must overcome the worldviews and biases while learning important lessons and cultures from them.   This season, similar to Star Wars, a New Hope, only fulfills the call to adventure and crossing of the first threshold.
 
 ## Install and Test
 1. Download or clone the repo
