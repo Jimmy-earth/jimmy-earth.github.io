@@ -1,4 +1,4 @@
-# Jimmy - A Magical Realism Collabrative Writing Project
+# Jimmy - A Magical Realism Collaborative Writing Project
 
 ## Story overview
 Magical realism creates a sense of wonder and fantasy out of otherwise normal daily events.  From this vantage point, the parallels between the real Capt Piccard of today and the fictional Capt Piccard of 2400 provide a very fertile thematic space in a world where humanity is simultaneously charging towards the collapse of our own planet and colonization of the next one.
