@@ -14,18 +14,10 @@ The season finale of Star Trek TNG season 1 tracks 3 characters from the present
 
 ## Install and Test
 1. Download or clone the repo
-  - `git clone git@github.com:ferrolho/jekyll-theme-libretto.git`
+  - `git clone https://github.com/Jimmy-earth/jimmy-earth.github.io`
 2. Enter the folder
-  - `cd jekyll-theme-libretto/`
+  - `cd jimmy-earth.github.io/`
 3. Start Jekyll server
   - `jekyll serve --watch`
-4. Access via
-  - http://127.0.0.1:4000/jekyll-theme-libretto/
-
-## Demo
-
-- https://ferrolho.github.io/jekyll-theme-libretto/
-
-## Preview
-
-![Theme preview](http://i.imgur.com/2ZCmoKo.png)
+4. Then access it from the browser via
+  - http://127.0.0.1:4000/
