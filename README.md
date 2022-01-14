@@ -1,5 +1,7 @@
 # Jimmy - A Magical Realism Collabrative Writing Project
 
+find it at: https://jimmy.earth
+
 ## Story overview
 Magical realism creates a sense of wonder and fantasy out of otherwise normal daily events.  From this vantage point, the parallels between the real Capt Piccard of today and the fictional Capt Piccard of 2400 provide a very fertile thematic space in a world where humanity is simultaneously charging towards the collapse of our own planet and colonization of the next one.
 
@@ -19,5 +21,5 @@ The season finale of Star Trek TNG season 1 tracks 3 characters from the present
   - `cd jimmy-earth.github.io/`
 3. Start Jekyll server
   - `jekyll serve --watch`
-4. Then access it from the browser via
+4. Then access it in your browser via:
   - http://127.0.0.1:4000/
